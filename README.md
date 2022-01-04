@@ -1,10 +1,6 @@
 ### Hi there 👋
+My name is Rodolfo and I'm in 1 year of high school and I'm learning English and WEB development and for now that's it
 
-<!--
-**RodolfoNovo/RodolfoNovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 🎒 I’m currently learning HTML at rocketseat
-- 📫 How to reach me: <a href="mailto:rodolfonvjr081@gmail.com">Meu Email de contato</a> 
+<br>
+📫 How to reach me: <a href="mailto:rodolfonvjr081@gmail.com">my contact email</a> 
